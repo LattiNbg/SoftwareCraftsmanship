@@ -17,7 +17,7 @@ Software Craftsmanship auf dem DevCamp18 am 10.03.2018
 * [SoCraTes-Konferenz](https://www.socrates-conference.de)
 
 * Slack SoftwareCrafters
-  * Slack: Softwarecrafters.slack.com
+  * Softwarecrafters.slack.com
 
 
 ## we practice
@@ -39,3 +39,9 @@ Software Craftsmanship auf dem DevCamp18 am 10.03.2018
 * Wissen weitergeben
 * Konferenzen, Barcamps, Meetups etc
 * [Community of practice](https://de.m.wikipedia.org/wiki/Community_of_Practice)
+
+
+# Dankeschön
+
+Ein Dankeschön an Alle, die anwesend waren, an den Frank Prechtel für das Mitmachen und last but not least an die Ute für die spontane Idee
+gruss Latti
