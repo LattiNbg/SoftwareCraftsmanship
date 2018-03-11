@@ -22,13 +22,14 @@ Software Craftsmanship auf dem DevCamp18 am 10.03.2018
 
 ## we practice
 * Üben! Üben! Üben!
-* Coding dojo 
-* Code retreats 
+* [Coding dojo](https://www.it-agile.de/wissen/agiles-engineering/code-katas-und-coding-dojos/)
+ * [Katas](http://ccd-school.de/coding-dojo/)
+* [Code retreats bzw. global day of code retreat](http://coderetreat.org)
 
 ## We care
 * [Clean code](http://clean-code-developer.de)
 * Refactoring
-* TDD
+* [TDD](https://de.m.wikipedia.org/wiki/Testgetriebene_Entwicklung)
 
 ## We learn
 * Lebenslanges Lernen
@@ -37,4 +38,4 @@ Software Craftsmanship auf dem DevCamp18 am 10.03.2018
 ## We share 
 * Wissen weitergeben
 * Konferenzen, Barcamps, Meetups etc
-* Community of practice
+* [Community of practice](https://de.m.wikipedia.org/wiki/Community_of_Practice)
