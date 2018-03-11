@@ -8,7 +8,7 @@ Software Craftsmanship auf dem DevCamp18 am 10.03.2018
 * 2001 Pete McBreen - Software Craftsmanship (Buch)
 * 2003 [Manifest](http://manifesto.softwarecraftsmanship.org)
 * 2011 Softwerkskammer Deutschland 
- * 28 Regionalgruppen
+  * 28 Regionalgruppen
  * Treffen in Nürnberg immer am 1. Donnerstag im Monat
  * [Homepage](https://www.softwerkskammer.org/groups/)
  * Slack: Softwerkskammer-nbg.slack.com
