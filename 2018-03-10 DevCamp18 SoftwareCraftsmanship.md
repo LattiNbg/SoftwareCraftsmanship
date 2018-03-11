@@ -9,16 +9,15 @@ Software Craftsmanship auf dem DevCamp18 am 10.03.2018
 * 2003 [Manifest](http://manifesto.softwarecraftsmanship.org)
 * 2011 Softwerkskammer Deutschland 
   * 28 Regionalgruppen
- * Treffen in Nürnberg immer am 1. Donnerstag im Monat
- * [Homepage](https://www.softwerkskammer.org/groups/)
- * Slack: Softwerkskammer-nbg.slack.com
+  * Treffen in Nürnberg immer am 1. Donnerstag im Monat
+   * [Homepage](https://www.softwerkskammer.org/groups/)
+   * Slack: Softwerkskammer-nbg.slack.com
 
 
-* SoCraTes-Konferenz
-[Homepage](https://www.socrates-conference.de)
+* [SoCraTes-Konferenz](https://www.socrates-conference.de)
 
 * Slack SoftwareCrafters
-Slack: Softwarecrafters.slack.com
+  * Slack: Softwarecrafters.slack.com
 
 
 ## we practice
@@ -27,8 +26,7 @@ Slack: Softwarecrafters.slack.com
 * Code retreats 
 
 ## We care
-* Clean code 
-http://clean-code-developer.de
+* [Clean code](http://clean-code-developer.de)
 * Refactoring
 * TDD
 
