@@ -20,7 +20,7 @@ Software Craftsmanship auf dem DevCamp18 am 10.03.2018
   * Softwarecrafters.slack.com
 
 
-![Foto Andy Fischer](https://github.com/LattiNbg/SoftwareCraftsmanship/blob/master/IMG_2007.JPG "Foto Andy Fischer"
+![Foto Andy Fischer](https://github.com/LattiNbg/SoftwareCraftsmanship/blob/master/IMG_2007.JPG "Foto Andy Fischer")
 
 ## we practice
 * Üben! Üben! Üben!
