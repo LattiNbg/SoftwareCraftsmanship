@@ -40,6 +40,9 @@ Software Craftsmanship auf dem DevCamp18 am 10.03.2018
 * Konferenzen, Barcamps, Meetups etc
 * [Community of practice](https://de.m.wikipedia.org/wiki/Community_of_Practice)
 
+# Buchtipp
+
+[Sandro Mancuso - The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.de/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1520830463&sr=1-1)
 
 # Dankeschön
 
