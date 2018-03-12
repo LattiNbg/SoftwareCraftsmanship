@@ -20,6 +20,8 @@ Software Craftsmanship auf dem DevCamp18 am 10.03.2018
   * Softwarecrafters.slack.com
 
 
+![Foto Andy Fischer](https://github.com/LattiNbg/SoftwareCraftsmanship/blob/master/IMG_2007.JPG "Foto Andy Fischer"
+
 ## we practice
 * Üben! Üben! Üben!
 * [Coding dojo](https://www.it-agile.de/wissen/agiles-engineering/code-katas-und-coding-dojos/)
