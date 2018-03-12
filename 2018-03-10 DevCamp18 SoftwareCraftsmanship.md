@@ -53,6 +53,6 @@ Das schöne Bild hat mein Kollege [Andy Fischermaen Fischer](https://twitter.com
 
 # Dankeschön
 
-Ein Dankeschön an Alle, die anwesend waren, an den [Frank Prechtel](https://twitter.com/FrankPrechtel) für das Mitmachen und last but not least an die Ute für die spontane Idee
+Ein Dankeschön an Alle, die anwesend waren, an den [Frank Prechtel](https://twitter.com/FrankPrechtel) für das Mitmachen und last but not least an die [Ute](https://twitter.com/dot_ute) für die spontane Idee
 
 Gruss Latti
