@@ -25,6 +25,8 @@ Software Craftsmanship auf dem DevCamp18 am 10.03.2018
 
 ![Foto Andy Fischer](https://github.com/LattiNbg/SoftwareCraftsmanship/blob/master/IMG_2007.JPG "Foto Andy Fischer")
 
+Das schöne Bild hat mein Kollege [Andy Fischermaen Fischer](https://twitter.com/Fischermaen) gemalt
+
 ## we practice
 * Üben! Üben! Üben!
 * [Coding dojo](https://www.it-agile.de/wissen/agiles-engineering/code-katas-und-coding-dojos/)
